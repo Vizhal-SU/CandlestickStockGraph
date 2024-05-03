@@ -8,3 +8,11 @@ npx json-server ./src/db.json
 ```
 which contains the same data locally and change the prop in `useFetchData` from `apiUrl` to `apiUrl2`
  
+
+A video showcasing the various functionalities of the website:
+<br>
+
+https://github.com/Vizhal-SU/Vizhal-SU.github.io/assets/118242352/d1b08478-449c-4516-8fdd-ef402ce85927
+
+
+
