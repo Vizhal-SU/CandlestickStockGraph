@@ -6,5 +6,5 @@ If the number of calls have exceeded the limit, use the local server by running
 ```code
 npx json-server ./src/db.json
 ```
-which contains the same data locally
+which contains the same data locally and change the prop in `useFetchData` from `apiUrl` to `apiUrl2`
  
